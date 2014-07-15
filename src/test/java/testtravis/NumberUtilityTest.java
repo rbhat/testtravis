@@ -25,6 +25,7 @@ public class NumberUtilityTest {
         arr[2]=3;
         arr[3]=4;
         assertEquals(2, nu.countEvens(arr));
+        assertEquals(2, nu.countEvens(arr));
     }
 
 }
