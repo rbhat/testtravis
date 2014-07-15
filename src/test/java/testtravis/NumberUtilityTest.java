@@ -13,6 +13,7 @@ public class NumberUtilityTest {
         NumberUtility nu = new NumberUtility();
         assertTrue(nu.isEven(2));
         assertFalse(nu.isEven(3));
+        assertFalse(nu.isEven(-1));
     }
 
     
