@@ -1,2 +1,2 @@
 language: java
-- mvn sonar:sonar
+script: mvn sonar:sonar
