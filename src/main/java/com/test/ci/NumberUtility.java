@@ -4,7 +4,9 @@ import java.util.*;
 
 public class NumberUtility{
 
-  public boolean isEven(int num){
+  private int[] arr;
+
+public boolean isEven(int num){
     return num%2==0;
   }
   
