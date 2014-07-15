@@ -23,4 +23,8 @@ public boolean isEven(int num){
     
     return evenCount;
   }
+  
+  public void doSomethingWierd(){
+    int f_f=8*6;
+  }
 }
