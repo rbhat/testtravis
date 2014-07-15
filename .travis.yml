@@ -1,2 +1,2 @@
-
-mvn install sonar:sonar
+language: java
+mvn sonar:sonar
