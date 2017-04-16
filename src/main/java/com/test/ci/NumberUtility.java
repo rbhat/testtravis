@@ -23,4 +23,9 @@ public boolean isEven(int num){
     
     return evenCount;
   }
+  
+  public void doSomethingWierder(){
+    int FO0_Bar = -9;
+    int v = 8*56;
+  }
 }
